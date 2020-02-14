@@ -1,3 +1,15 @@
+# A simple todo with React and MobX
+
+This repo was created with create-react-app and custom-react-scripts: https://www.npmjs.com/package/custom-react-scripts.
+
+Custom-react-scripts is a fork of react-scripts with simple babel/webpack modifications that can toggle extra features.
+
+I found it useful for this project as it adds support for decorators without having to eject create-react-app.
+
+Credits to LearnCode.academy and these YT videos I followed to make this app: https://www.youtube.com/watch?v=_q50BXqkAfI & https://www.youtube.com/watch?v=nYvNqKrl69s
+
+...
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
